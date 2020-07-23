@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hola, I'm Darshak Ranpariya!
+### Hola, I'm Darshak Ranpariya!
 
 - 🔭 I’m currently working on My final year project(flutter).
 - 🌱 I’m currently learning ML/DL
