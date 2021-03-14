@@ -2,7 +2,7 @@
 
 ### Hola, I'm Darshak Ranpariya!
 
-- 🔭 I’m currently working various projects(tech->flutter).
+- 🔭 I’m currently working on various projects(tech->flutter).
 - 🌱 I’m currently learning ML/DL
 - 💬 Ask me about Competitive programming.
 - 📫 How to reach me: [**Twitter** : @D_P_Ranpariya](https://twitter.com/D_P_Ranpariya), [**Linkedin** : @dp_ranpariya](https://www.linkedin.com/in/darshak-ranpariya-51b702152/)
